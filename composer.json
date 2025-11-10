@@ -1,0 +1,16 @@
+{
+    "name": "user/lab6",
+    "description": "PHP MVC blog demo",
+    "autoload": {
+        "psr-4": {
+            "User\\Lab6\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AngelaBosyuk",
+            "email": "b.angelavasylivna@gmail.com"
+        }
+    ],
+    "require": {}
+}
